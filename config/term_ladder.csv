@@ -1,0 +1,116 @@
+term,ladder,confidence,rationale
+live,S0,high,活体动物/植物，加工深度最低
+leather products (small),S3,high,小件皮革制品，成品
+skins,S1,high,生皮/皮张，未鞣制
+trophies,S3,high,战利品标本，成品
+raw corals,S1,high,原料珊瑚
+specimens,S0,medium,整体标本（含科研用活体个体），按未经加工的整体处理
+roots,S1,high,根（药用/原料）
+shoes,S3,high,鞋，成品
+garments,S3,high,服装，成品
+leather products (large),S3,high,大件皮革制品，成品
+sawn wood,S2,high,锯材，半成品
+wood product,S3,high,木制品，成品
+extract,S2,high,提取物，初加工
+ivory carvings,S3,high,象牙雕刻，成品
+caviar,S3,medium,鱼子酱，高附加值成品
+skin pieces,S2,high,皮块，半成品
+skulls,S1,high,头骨，原料/标本部件
+cosmetics,S3,high,化妆品，成品
+meat,S2,high,肉类，初加工
+logs,S1,high,原木
+bodies,S1,medium,整只死亡个体，未加工
+carvings,S3,high,雕刻件，成品
+leather items,S3,high,皮革制品，成品
+derivatives,S3,high,衍生物多为药品、化妆品、提取制品等深加工产物
+chips,S2,high,木片/切片，初加工
+seeds,S0,high,种子（繁殖材料）
+tusks,S1,high,象牙/獠牙，原料
+eggs,S1,medium,卵（非活体），原料
+shells,S1,high,贝壳，原料
+oil,S2,high,油，初加工
+jewellery,S3,high,珠宝首饰，成品
+timber,S1,high,木材（未加工或粗加工）
+stems,S1,high,茎，原料
+feathers,S1,high,羽毛，原料
+wax,S1,high,蜡，原料
+teeth,S1,high,牙齿，原料
+transformed wood,S2,high,改性木材，半成品
+flowers,S1,high,花（切花/原料）
+medicine,S3,high,药品，成品
+powder,S2,high,粉末，初加工
+cloth,S3,medium,布料/织物，成品
+plates,S1,medium,板/盘（如龟甲板、象牙板），属原料与初级分割
+leaves,S1,high,叶片，原料
+tails,S1,high,尾部，原料
+feet,S1,high,足部，原料
+dried plants,S2,medium,干燥植物，初加工
+bones,S1,high,骨骼，原料
+hair,S1,high,毛发，原料
+cultures,S0,medium,离体培养物，属繁殖材料而非加工品
+veneer,S2,high,单板，半成品
+rug,S3,high,地毯，成品
+fins,S2,high,鱼鳍，初加工
+unspecified,,,形态未指定，作为缺失值处理，不参与阶梯比较
+claws,S1,high,爪，原料
+timber pieces,S1,medium,木段/木块，仍属原料
+ivory pieces,S2,high,象牙块料，半成品
+sides,S2,medium,半张皮革，半成品
+carapaces,S1,high,甲壳，原料
+hair products,S3,high,毛发制品，成品
+fin (dried),S2,high,干鱼鳍，初加工
+eggs (live),S0,high,活体卵（孵化用）
+ears,S1,high,耳部，原料
+horns,S1,high,角，原料
+piano keys,S3,high,钢琴键，成品部件
+musk,S1,high,麝香，原料
+pupae,S0,high,蛹（活体繁殖材料）
+bone carvings,S3,high,骨雕，成品
+skeletons,S1,high,骨架，原料
+skin scraps,S2,high,碎皮，半成品/边角料
+gall bladders,S1,high,胆囊，原料
+ivory scraps,S2,high,象牙边角料，半成品
+bark,S1,high,树皮，原料
+fibres,S1,high,纤维，原料
+genitalia,S1,high,生殖器，原料
+horn carvings,S3,high,角雕，成品
+plywood,S2,high,胶合板，半成品
+pearl,S1,medium,珍珠，原料
+gill plates,S1,medium,鳃板，原料
+graft rootstocks,S0,medium,嫁接砧木，活体繁殖材料
+fin (wet),S2,high,湿鱼鳍，初加工
+baleen,S1,high,鲸须，原料
+fur product (small),S3,high,小件毛皮制品，成品
+scales,S1,high,鳞片，原料
+bone pieces,S2,high,骨块料，半成品
+jewellery - ivory,S3,high,象牙首饰，成品
+fingerlings,S0,high,鱼苗/幼体
+horn products,S3,high,角制品，成品
+soup,S3,medium,汤/羹，成品食品
+leather,S2,high,鞣制皮革，材料级半成品
+gall,S1,medium,胆汁，原料
+heads,S1,medium,头部，原料/战利品部件
+bone products,S3,high,骨制品，成品
+fur products (large),S3,high,大件毛皮制品，成品
+wood products,S3,high,木制品，成品
+pearls,S1,medium,珍珠，原料
+timber carvings,S3,high,木雕，成品
+fruit,S1,high,果实，原料
+sets of piano keys,S3,high,成套钢琴键，成品部件
+furniture,S3,high,家具，成品
+venom,S1,high,毒液，原料
+eggshell,S1,high,蛋壳，原料
+horn pieces,S2,high,角块料，半成品
+flower pots,S0,high,带活体植株的花盆，本质仍是活体整体
+trunk,S1,high,象鼻/树干，原料
+kernel,S1,medium,果仁，原料
+coral sand,S1,high,珊瑚砂，原料
+swim bladders,S1,high,鱼鳔，原料
+quills,S1,high,刺/羽管，原料
+calipee,S1,high,龟鳖类软骨，原料
+sawfish rostrum,S1,high,锯鳐吻部，原料
+scraps,S2,medium,边角料，半成品
+horn scraps,S2,high,角边角料，半成品
+frog legs,S2,high,蛙腿，初加工
+thread,S2,medium,线/丝，材料级半成品
+spectacle frames,S3,high,眼镜架，成品
